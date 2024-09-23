@@ -30,7 +30,7 @@ for key, value in q.items():
             print("Another correct")
         else:
             print("Fuck you")
-    elif int (ans) == 1:
+    elif int (ans) == 3:
         if op[i] [2] == value:
             score += 1
             print("You are crushing it! ")
