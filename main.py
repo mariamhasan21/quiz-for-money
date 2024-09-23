@@ -25,13 +25,13 @@ for key, value in q.items():
         else:
             print("Dumb asf")
     elif int(ans) == 2:
-        if op[i] [1] == 2:
+        if op[i] [1] == value:
             score += 1
             print("Another correct")
         else:
             print("Fuck you")
     elif int (ans) == 1:
-        if op[i] == value:
+        if op[i] [2] == value:
             score += 1
             print("You are crushing it! ")
     i += 1
