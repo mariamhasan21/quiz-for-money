@@ -31,5 +31,10 @@ Once the app is running, it will present a series of questions. Users need to ty
 **Technologies Used**
 
 
+
 Python: The app is entirely written in Python, utilizing loops and control structures like for-else and while loops to manage the question flow and user input.
+
+
+
+
 Score System: Keeps track of correct answers and displays the final score.
