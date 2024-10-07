@@ -9,11 +9,13 @@ This is a simple command-line quiz application built with Python. It asks users 
     Loop structure that continues the quiz until the user decides to quit.
 **Installation**
 1. Clone the repository:
-'''git clone https://github.com/yourusername/python-quiz-app.git
-cd python-quiz-app'''
+git clone https://github.com/yourusername/python-quiz-app.git
+cd python-quiz-app
 
-2. Make sure you have Python installed. Run the app using:
-'''python quiz.py'''
+
+3. Make sure you have Python installed. Run the app using:
+python quiz.py
+
 **Usage**
 Once the app is running, it will present a series of questions. Users need to type the correct answer to proceed to the next question. The quiz keeps track of the user's score and displays it at the end of the session.
 **Technologies Used**
